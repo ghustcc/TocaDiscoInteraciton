@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Maps/Map_TocaDiscoInteraction.umap",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Maps/NewWorld.umap",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/M_RecordPlayer02.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/M_RecordPlayer01.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_RPDustCover_Closing.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_RPDustCover_Closing_PhysicsAsset.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_RPDustCover_Closing_Skeleton.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_RPDustCover_Opening.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_RPDustCover_Opening_PhysicsAsset.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_RPDustCover_Opening_Skeleton.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_VinilPlayer_TurningOff.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_VinilPlayer_TurningOff_PhysicsAsset.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_VinilPlayer_TurningOff_Skeleton.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_VinilPlayer_TurningOn.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_VinilPlayer_TurningOn_PhysicsAsset.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Animations/AS_VinilPlayer_TurningOn_Skeleton.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Meshes/M_RecordPlayer02.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Meshes/M_RecordPlayer_05.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Meshes/SM_RPVolume_geo.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Meshes/SM_Speaker_geo.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer_04_ORM.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer_03_ALB.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer_03_N.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer_04_N.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer01_N.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer01_ALB.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer01_ORM.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer_04_ALB.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer_03_ORM.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer02_ALB.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer02_N.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Textures/T_RecordPlayer02_ORM.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/GameFramework/GM_TocaDiscoInteraction.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/GameFramework/Player/BP_Player_TocaDisco.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/M_RecordPlayer_05.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/SK_RecordPlayer.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/SK_RecordPlayer_PhysicsAsset.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/SK_RecordPlayer_Skeleton.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/SK_Speaker.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/SK_Speaker_PhysicsAsset.uasset",
+				"C:/Users/Labtime/Documents/Unreal Projects/TocaDiscoInteraciton/Content/Art/Materials/SK_Speaker_Skeleton.uasset"
+			]
+		}
+	]
+}
